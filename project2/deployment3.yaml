@@ -1,3 +1,4 @@
+# This file for persistent volume
 apiVersion: apps/v1
 kind: Deployment
 metadata:
