@@ -1,6 +1,6 @@
 
 
-# this file label is changed (nodejs1)
+# this file label is changed (nodejs1) and for secret file
 
 apiVersion: apps/v1
 kind: Deployment
